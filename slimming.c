@@ -20,7 +20,7 @@ PNMImage* reduceImageWidth(const PNMImage* image, size_t k)
     		energy[i] = ...;
     }
 
-    //remplissage du tableau de coup et de mouvement
+    //remplissage du tableau de cout et de mouvement
     for (size_t i = 0; i < size; ++i)
     { 
     	if (i < width)
